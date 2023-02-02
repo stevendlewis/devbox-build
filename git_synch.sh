@@ -11,7 +11,7 @@ then
 
     git add --all
     sleep 10
-    git commit -m "Aumtomated sync: $gstatus"
+    git commit -m "Automated sync: $gstatus"
     sleep 10
 	git pull --rebase
     sleep 10
