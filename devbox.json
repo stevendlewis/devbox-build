@@ -1,8 +1,5 @@
 {
   "packages": [
-    "python310",
-    "neofetch",
-    "go",
     "git"
   ],
   "shell": {
